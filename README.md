@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Adam1302
 - :canada:  I am currently a Computer Science student at the University of Waterloo
 - 👀 I’m interested in learning about the vast and deep world of computer programming.
-- 🌱 I’m currently learning Linux, C, and C++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Linux, C, and C++, and am planning to learn Python and JavaScript in the upcoming months.
 - 📫 How to reach me: Email adam.abdulhamid@outlook.com
 
 <!---
