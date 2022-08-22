@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adam1302
 - :canada:  I am currently a Computer Science student at the University of Waterloo
 - 👀 I’m interested in learning about the vast and deep world of computer programming.
-- 🌱 I’m currently about Python Scripting and Bluetooth Technologies, and am planning to learn HTML, CSS, and JavaScript in the upcoming months.
+- 🌱 I’m currently about HTML, CSS, and JavaScript, and am planning on learning about Data Structures and Algorithms in the upcoming months.
 - 📫 How to reach me: Email adam.abdulhamid@outlook.com
 
 <!---
